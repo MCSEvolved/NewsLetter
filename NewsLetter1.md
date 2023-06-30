@@ -75,8 +75,7 @@ I may or may not have died for this picture:
 
 In the end it was all worth it though, because the trading hall looks amazing.
 
-
-![TradingHallInside](Images/TradingHallInsideNews1.png)
+![TradingHallInside](Images/TradinghallInsideNews1.png)
 
 The trading hall has multiple floors including a basement. Currently it has space for around 60 villagers, which should just be enough to get every trade we need (I hope). With the trading interfaces, we are able to trade and restock villagers automatically. Which means we can trade at rapid speeds. We should also be able to interact with anvils, which means we can completely automate the task of creating good gear. These are all plans for the future though. For now, we are just happy that we have a nice looking trading hall. Oh, and maybe that our villagers won't get killed by zombies anymore.
 
